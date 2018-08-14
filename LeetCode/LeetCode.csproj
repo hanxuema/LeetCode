@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="709ToLowerCase.cs" />
     <Compile Include="771JewelsandStones.cs" />
+    <Compile Include="804UniqueMorseCodeWords.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

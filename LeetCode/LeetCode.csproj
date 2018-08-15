@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="461HammingDistance.cs" />
+    <Compile Include="657JudgeRouteCircle.cs" />
     <Compile Include="709ToLowerCase.cs" />
     <Compile Include="771JewelsandStones.cs" />
     <Compile Include="804UniqueMorseCodeWords.cs" />

@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="25ReverseNodesinkGroup.cs" />
     <Compile Include="344ReverseString.cs" />
     <Compile Include="461HammingDistance.cs" />
     <Compile Include="561ArrayPartitionI.cs" />

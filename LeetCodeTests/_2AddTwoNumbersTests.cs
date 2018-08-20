@@ -25,7 +25,16 @@ namespace LeetCode.Tests
             var atn = new _2AddTwoNumbers();
             var result = atn.AddTwoNumbers(head, head2);
 
-            
+            var r = new int[] { 7, 0, 8 };
+
+            Assert.IsTrue(cl.convertListNodeToArray(result).SequenceEqual(r));
+
+            var ar3 = new int[] { 5 };
+            var head3 = cl.convertArrayToListNode(ar3);
+
+            var result3 = atn.AddTwoNumbers(head3, head3);
+
+            Assert.IsTrue(cl.convertListNodeToArray(result3).SequenceEqual(new int[] { 0,1}));
         }
     }
 }

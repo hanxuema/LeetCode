@@ -24,37 +24,49 @@ namespace LeetCode
             ListNode next2 = null;
 
             ListNode pre = null;
-            ListNode cur = null;
-            var valueToAdd = 0;
+            ListNode first = null;
+            var index = 0;
+            var nextValue = 0;
+
             while (l1 != null && l2 != null)
             {
-                var curValue = l1.val + l2.val;
-                cur = l1;
+                //for loop each node
                 next1 = l1.next;
                 next2 = l2.next;
 
-                if (curValue > 9)
+                var value = l1.val + l2.val;
+                value = value + nextValue;
+                if (value > 9)
                 {
-                    cur.val = curValue % 10;
-                    valueToAdd = pre.val + (curValue - cur.val) / 10;
+                    l1.val = value % 10;
+                    nextValue = (value - l1.val) / 10;
                 }
                 else
                 {
-                    cur.val = curValue;
-                    valueToAdd = 0;
+                    l1.val = value;
+                    nextValue = 0;
                 }
+                pre = l1;
 
-                if (pre != null)
+                if (nextValue > 0 && next1 == null)
                 {
-                    pre.next = cur;
+                    var newNode = new ListNode(nextValue);
+                    l1.next = newNode;
                 }
-                pre = cur;
 
                 l1 = next1;
                 l2 = next2;
+
+              
+                if (index == 0)
+                {
+                    first = pre;
+                }
+                index++;
             }
 
-            return l1;
+
+            return first;
         }
     }
 }

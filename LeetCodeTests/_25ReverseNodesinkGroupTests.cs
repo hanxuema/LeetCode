@@ -19,7 +19,7 @@ namespace LeetCode.Tests
 
             var ar = new int[] { 1, 2, 3, 4, 5 };
             var head = cl.convertArrayToListNode(ar);
-
+        
             var ar2 = new int[] { 3, 2, 1, 4, 5 };
             var head2 = cl.convertArrayToListNode(ar2);
 

@@ -54,6 +54,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="_1TwoSumTests.cs" />
     <Compile Include="_25ReverseNodesinkGroupTests.cs" />
+    <Compile Include="_2AddTwoNumbersTests.cs" />
     <Compile Include="_344ReverseStringTests.cs" />
     <Compile Include="_461HammingDistanceTests.cs" />
     <Compile Include="_657JudgeRouteCircleTests.cs" />

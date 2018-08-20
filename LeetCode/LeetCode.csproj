@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="1TwoSum.cs" />
     <Compile Include="25ReverseNodesinkGroup.cs" />
+    <Compile Include="2AddTwoNumbers.cs" />
     <Compile Include="344ReverseString.cs" />
     <Compile Include="461HammingDistance.cs" />
     <Compile Include="561ArrayPartitionI.cs" />

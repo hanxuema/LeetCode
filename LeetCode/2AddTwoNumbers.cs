@@ -18,55 +18,48 @@ namespace LeetCode
         //Output: 7 -> 0 -> 8
         //Explanation: 342 + 465 = 807.
 
+        //Input:
+        //[0]
+        //[7,3]
+        //Output:
+        //[7]
+        //Expected:
+        //[7,3]
+
         public ListNode AddTwoNumbers(ListNode l1, ListNode l2)
-        {
-            ListNode next1 = null;
-            ListNode next2 = null;
-
-            ListNode pre = null;
-            ListNode first = null;
+        { 
+            ListNode first = new ListNode(0);
+            ListNode result = first;
             var index = 0;
-            var nextValue = 0;
 
-            while (l1 != null && l2 != null)
+            var carry = 0;
+
+            while (l1 != null || l2 != null || carry ==1 )
             {
+                var sum = 0;
                 //for loop each node
-                next1 = l1.next;
-                next2 = l2.next;
-
-                var value = l1.val + l2.val;
-                value = value + nextValue;
-                if (value > 9)
+                if (l1 != null)
                 {
-                    l1.val = value % 10;
-                    nextValue = (value - l1.val) / 10;
+                    sum = sum + l1.val;
+                    l1 = l1.next;
                 }
-                else
+                if (l2 != null)
                 {
-                    l1.val = value;
-                    nextValue = 0;
-                }
-                pre = l1;
-
-                if (nextValue > 0 && next1 == null)
-                {
-                    var newNode = new ListNode(nextValue);
-                    l1.next = newNode;
+                    l2 = l2.next;
                 }
 
-                l1 = next1;
-                l2 = next2;
+                sum = sum + carry;
 
-              
-                if (index == 0)
-                {
-                    first = pre;
-                }
+                first.next = new ListNode(sum % 10);
+                carry = (sum - first.next.val) / 10;p
+
+                first = first.next;
+
                 index++;
             }
 
 
-            return first;
+            return result.next;
         }
     }
 }

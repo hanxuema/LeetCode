@@ -20,7 +20,7 @@ namespace LeetCode.Tests
             var head = cl.convertArrayToListNode(ar);
 
             var ar2 = new int[] { 5, 6, 4 };
-            var head2 = cl.convertArrayToListNode(ar2); 
+            var head2 = cl.convertArrayToListNode(ar2);
 
             var atn = new _2AddTwoNumbers();
             var result = atn.AddTwoNumbers(head, head2);
@@ -34,7 +34,17 @@ namespace LeetCode.Tests
 
             var result3 = atn.AddTwoNumbers(head3, head3);
 
-            Assert.IsTrue(cl.convertListNodeToArray(result3).SequenceEqual(new int[] { 0,1}));
+            Assert.IsTrue(cl.convertListNodeToArray(result3).SequenceEqual(new int[] { 0, 1 }));
+
+            var ar5 = new int[] { 0 };
+            var ar6 = new int[] { 7, 3 };
+            var head5 = cl.convertArrayToListNode(ar5);
+            var head6 = cl.convertArrayToListNode(ar6);
+
+            var result6 = atn.AddTwoNumbers(head5, head6);
+
+            Assert.IsTrue(cl.convertListNodeToArray(result6).SequenceEqual(new int[] { 7, 3 }));
         }
     }
+
 }

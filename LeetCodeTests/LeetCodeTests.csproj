@@ -58,6 +58,7 @@
     <Compile Include="_344ReverseStringTests.cs" />
     <Compile Include="_461HammingDistanceTests.cs" />
     <Compile Include="_657JudgeRouteCircleTests.cs" />
+    <Compile Include="_728SelfDividingNumbersTests.cs" />
     <Compile Include="_832FlippinganImageTests.cs" />
   </ItemGroup>
   <ItemGroup>

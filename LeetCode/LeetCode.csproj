@@ -50,6 +50,7 @@
     <Compile Include="561ArrayPartitionI.cs" />
     <Compile Include="657JudgeRouteCircle.cs" />
     <Compile Include="709ToLowerCase.cs" />
+    <Compile Include="728SelfDividingNumbers.cs" />
     <Compile Include="771JewelsandStones.cs" />
     <Compile Include="804UniqueMorseCodeWords.cs" />
     <Compile Include="832FlippinganImage.cs" />

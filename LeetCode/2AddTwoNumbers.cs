@@ -51,7 +51,7 @@ namespace LeetCode
                 sum = sum + carry;
 
                 first.next = new ListNode(sum % 10);
-                carry = (sum - first.next.val) / 10;p
+                carry = (sum - first.next.val) / 10;
 
                 first = first.next;
 

@@ -52,6 +52,7 @@
     <Compile Include="709ToLowerCase.cs" />
     <Compile Include="728SelfDividingNumbers.cs" />
     <Compile Include="771JewelsandStones.cs" />
+    <Compile Include="7ReverseInteger.cs" />
     <Compile Include="804UniqueMorseCodeWords.cs" />
     <Compile Include="832FlippinganImage.cs" />
     <Compile Include="Program.cs" />

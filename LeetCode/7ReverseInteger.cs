@@ -54,5 +54,9 @@ namespace LeetCode
             }
             return isNegative ? 0 - (int)result : (int)result;
         }
+
+        public void TestFunction(int x) {
+            var y = 0;
+        }
     }
 }

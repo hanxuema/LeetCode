@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="1TwoSum.cs" />
     <Compile Include="20ValidParentheses.cs" />
+    <Compile Include="225ImplementStackusingQueues.cs" />
     <Compile Include="25ReverseNodesinkGroup.cs" />
     <Compile Include="2AddTwoNumbers.cs" />
     <Compile Include="344ReverseString.cs" />
@@ -57,6 +58,7 @@
     <Compile Include="804UniqueMorseCodeWords.cs" />
     <Compile Include="832FlippinganImage.cs" />
     <Compile Include="8StringtoInteger.cs" />
+    <Compile Include="9PalindromeNumber.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

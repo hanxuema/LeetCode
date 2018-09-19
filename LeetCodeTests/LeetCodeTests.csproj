@@ -54,6 +54,7 @@
     <Compile Include="MyStackTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="_13RomantoIntegerTests.cs" />
+    <Compile Include="_15ThreeSumTests.cs" />
     <Compile Include="_1TwoSumTests.cs" />
     <Compile Include="_20ValidParenthesesTests.cs" />
     <Compile Include="_25ReverseNodesinkGroupTests.cs" />

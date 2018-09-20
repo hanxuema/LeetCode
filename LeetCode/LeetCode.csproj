@@ -45,6 +45,7 @@
     <Compile Include="12IntegertoRoman.cs" />
     <Compile Include="13RomantoInteger.cs" />
     <Compile Include="15ThreeSum.cs" />
+    <Compile Include="16ThreeSumClosest.cs" />
     <Compile Include="1TwoSum.cs" />
     <Compile Include="20ValidParentheses.cs" />
     <Compile Include="225ImplementStackusingQueues.cs" />

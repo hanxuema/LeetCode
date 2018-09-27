@@ -25,6 +25,16 @@ namespace LeetCode
         //]
         public IList<IList<int>> ThreeSum(int[] nums)
         {
+
+            //var a = new string[] { "Vj", "Xj", "Z1", "NV" };
+            //var b = new string[] { "Q=", "A=", "M=", "g=" };
+
+            //var c = a.Zip(b, (aaa, bbb) => string.Concat(aaa, bbb));
+            //var d = c.Select(ccc => System.Convert.FromBase64String(ccc));
+
+            //var e = d.Select(ddd => System.Convert.FromBase64String);
+
+
             IList<IList<int>> result = new List<IList<int>>();
 
             //sort the array first

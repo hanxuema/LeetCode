@@ -53,6 +53,7 @@
     <Compile Include="225ImplementStackusingQueues.cs" />
     <Compile Include="25ReverseNodesinkGroup.cs" />
     <Compile Include="26RemoveDuplicatesfromSortedArray.cs" />
+    <Compile Include="283MoveZeroes.cs" />
     <Compile Include="2AddTwoNumbers.cs" />
     <Compile Include="344ReverseString.cs" />
     <Compile Include="461HammingDistance.cs" />

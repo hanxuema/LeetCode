@@ -66,6 +66,7 @@
     <Compile Include="_2AddTwoNumbersTests.cs" />
     <Compile Include="_344ReverseStringTests.cs" />
     <Compile Include="_349IntersectionofTwoArraysTests.cs" />
+    <Compile Include="_350IntersectionofTwoArraysIITests.cs" />
     <Compile Include="_461HammingDistanceTests.cs" />
     <Compile Include="_657JudgeRouteCircleTests.cs" />
     <Compile Include="_728SelfDividingNumbersTests.cs" />

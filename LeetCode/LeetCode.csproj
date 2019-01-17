@@ -68,6 +68,7 @@
     <Compile Include="7ReverseInteger.cs" />
     <Compile Include="804UniqueMorseCodeWords.cs" />
     <Compile Include="832FlippinganImage.cs" />
+    <Compile Include="844BackspaceStringCompare.cs" />
     <Compile Include="8StringtoInteger.cs" />
     <Compile Include="9PalindromeNumber.cs" />
     <Compile Include="Program.cs" />

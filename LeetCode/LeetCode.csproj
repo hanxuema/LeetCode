@@ -48,6 +48,7 @@
     <Compile Include="15ThreeSum.cs" />
     <Compile Include="167TwoSum2Inputarrayissorted.cs" />
     <Compile Include="16ThreeSumClosest.cs" />
+    <Compile Include="189RotateArray.cs" />
     <Compile Include="18FourSum.cs" />
     <Compile Include="1TwoSum.cs" />
     <Compile Include="20ValidParentheses.cs" />

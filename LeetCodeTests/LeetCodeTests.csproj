@@ -57,6 +57,7 @@
     <Compile Include="_13RomantoIntegerTests.cs" />
     <Compile Include="_15ThreeSumTests.cs" />
     <Compile Include="_167TwoSum2InputarrayissortedTests.cs" />
+    <Compile Include="_189RotateArrayTests.cs" />
     <Compile Include="_18FourSumTests.cs" />
     <Compile Include="_1TwoSumTests.cs" />
     <Compile Include="_20ValidParenthesesTests.cs" />

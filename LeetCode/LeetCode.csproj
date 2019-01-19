@@ -68,6 +68,7 @@
     <Compile Include="771JewelsandStones.cs" />
     <Compile Include="7ReverseInteger.cs" />
     <Compile Include="804UniqueMorseCodeWords.cs" />
+    <Compile Include="80RemoveDuplicatesfromSortedArray2.cs" />
     <Compile Include="832FlippinganImage.cs" />
     <Compile Include="844BackspaceStringCompare.cs" />
     <Compile Include="8StringtoInteger.cs" />

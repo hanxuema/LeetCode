@@ -42,6 +42,9 @@ namespace LeetCode
         //for (int i = 0; i<len; i++) {
         //    print(nums[i]);
         //    }
+
+
+        //this is related to question 80, this is also a special case such that duplicates appeared at most twice and return the new length
         public int RemoveDuplicates(int[] nums)
         {
             //check the corner case
@@ -56,7 +59,8 @@ namespace LeetCode
             //result[1, 2, 3, 4, 2, 2, 3, 3, 4],
             for (int index = 1; index < nums.Length; index++)
             {
-                if (nums[index] != nums[index-1]) //1 != 0 or 2 != 3
+                //if (nums[index] != nums[index -1]) //1 != 0 or 2 != 3
+                if (nums[index] != nums[pointer - 1]) //1 != 0 or 2 != 3
                 {
                     nums[pointer] = nums[index];
                     pointer++;

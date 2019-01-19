@@ -49,7 +49,7 @@ namespace LeetCode
         {
             if (nums == null || nums.Length <= 2)
             {
-                return 2;
+                return nums.Length;
             }
             //[1,1,1,2,2,3]
             //[1,1,2,2,3,3]

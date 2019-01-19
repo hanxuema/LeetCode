@@ -54,6 +54,7 @@
     <Compile Include="225ImplementStackusingQueues.cs" />
     <Compile Include="25ReverseNodesinkGroup.cs" />
     <Compile Include="26RemoveDuplicatesfromSortedArray.cs" />
+    <Compile Include="27RemoveElement.cs" />
     <Compile Include="283MoveZeroes.cs" />
     <Compile Include="2AddTwoNumbers.cs" />
     <Compile Include="344ReverseString.cs" />
@@ -71,11 +72,20 @@
     <Compile Include="844BackspaceStringCompare.cs" />
     <Compile Include="8StringtoInteger.cs" />
     <Compile Include="9PalindromeNumber.cs" />
+    <Compile Include="Content\content.xaml.cs">
+      <DependentUpon>content.txt</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\content.txt">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </Content>
+    <Content Include="Content\notes.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

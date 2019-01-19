@@ -47,9 +47,9 @@ namespace LeetCode
     {
         public int RemoveDuplicates(int[] nums)
         {
-            if (nums == null || nums.Length == 0)
+            if (nums == null || nums.Length <= 2)
             {
-                return 0;
+                return 2;
             }
             //[1,1,1,2,2,3]
             //[1,1,2,2,3,3]

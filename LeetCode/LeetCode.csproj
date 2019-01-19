@@ -72,9 +72,6 @@
     <Compile Include="844BackspaceStringCompare.cs" />
     <Compile Include="8StringtoInteger.cs" />
     <Compile Include="9PalindromeNumber.cs" />
-    <Compile Include="Content\content.xaml.cs">
-      <DependentUpon>content.txt</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

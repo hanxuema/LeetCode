@@ -44,22 +44,26 @@ namespace LeetCode
         //    }
         public int RemoveDuplicates(int[] nums)
         {
-            if (nums== null ||nums.Length== 0)
+            //check the corner case
+            if (nums == null || nums.Length == 0)
             {
                 return 0;
             }
-            //create a slow point and a faster point
-            var slow = 1;
 
-            for (int fast = 1; fast < nums.Length; fast++)
+            //set up point from index 1 because the index 0 is always the smallest number
+            var pointer = 1;
+            //input [0, 1, 1, 1, 2, 2, 3, 3, 4],
+            //result[1, 2, 3, 4, 2, 2, 3, 3, 4],
+            for (int index = 1; index < nums.Length; index++)
             {
-                if (nums[fast - 1] != nums[fast])
+                if (nums[index] != nums[index-1]) //1 != 0 or 2 != 3
                 {
-                    nums[slow++] = nums[fast];
-              
+                    nums[pointer] = nums[index];
+                    pointer++;
+                    //above 2 line is same as  nums[pointer++] =  nums[index]
                 }
             }
-            return slow;
+            return pointer;
         }
     }
 

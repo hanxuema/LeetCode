@@ -16,7 +16,10 @@ namespace LeetCode.Tests
         {
             var rdfsa = new _26RemoveDuplicatesfromSortedArray();
             var re = rdfsa.RemoveDuplicates(new int[] { 0, 0, 1, 1, 1, 2, 2, 3, 3, 4 });
-            Assert.AreEqual(re, 5);
+            Assert.AreEqual(re, 5);                   //0, 1, 2, 3, 4, 2, 2, 3, 3, 4
+
+            re = rdfsa.RemoveDuplicates(new int[] { 0, 1, 1, 2, 2, 3 });
+            Assert.AreEqual(re, 4);               //0, 1, 2, 3, 2, 3
 
         }
     }

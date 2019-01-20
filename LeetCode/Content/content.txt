@@ -6,7 +6,7 @@
 80	Remove Duplicates from Sorted Array II	
 277	Find the Celebrity	- pay
 189	Rotate Array	- check performance
-41	First Missing Positive	
+41	First Missing Positive	  - 2 version, second version with HashSet is better
 299	Bulls and Cows	
 134	Gas Station	
 118	Pascal's Triangle	很少考

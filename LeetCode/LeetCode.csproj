@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="125ValidPalindrome.cs" />
     <Compile Include="12IntegertoRoman.cs" />
+    <Compile Include="134GasStation.cs" />
     <Compile Include="13RomantoInteger.cs" />
     <Compile Include="15ThreeSum.cs" />
     <Compile Include="167TwoSum2Inputarrayissorted.cs" />

@@ -16,8 +16,12 @@ namespace LeetCode.Tests
         {
             var fmp = new _41FirstMissingPositive();
 
-            var result = fmp.FirstMissingPositive(new int[] { 2, 1 });
+            var result = fmp.FirstMissingPositive(new int[] { 1, 2, 0 });
             Assert.AreEqual(result, 3);
+
+            result = fmp.FirstMissingPositive(new int[] { 2 });
+            Assert.AreEqual(result, 1);
+
 
             result = fmp.FirstMissingPositive(new int[] { 3, 4, -1, 1 });
             Assert.AreEqual(result, 2);

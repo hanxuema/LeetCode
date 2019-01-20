@@ -61,6 +61,7 @@
     <Compile Include="344ReverseString.cs" />
     <Compile Include="349IntersectionofTwoArrays.cs" />
     <Compile Include="350IntersectionofTwoArraysII.cs" />
+    <Compile Include="41FirstMissingPositive.cs" />
     <Compile Include="461HammingDistance.cs" />
     <Compile Include="561ArrayPartitionI.cs" />
     <Compile Include="657JudgeRouteCircle.cs" />

@@ -53,6 +53,7 @@
     <Compile Include="18FourSum.cs" />
     <Compile Include="1TwoSum.cs" />
     <Compile Include="20ValidParentheses.cs" />
+    <Compile Include="217ContainsDuplicate.cs" />
     <Compile Include="225ImplementStackusingQueues.cs" />
     <Compile Include="243ShortestWordDistance.cs" />
     <Compile Include="25ReverseNodesinkGroup.cs" />

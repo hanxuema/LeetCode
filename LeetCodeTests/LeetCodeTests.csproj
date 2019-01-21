@@ -62,6 +62,7 @@
     <Compile Include="_18FourSumTests.cs" />
     <Compile Include="_1TwoSumTests.cs" />
     <Compile Include="_20ValidParenthesesTests.cs" />
+    <Compile Include="_217ContainsDuplicateTests.cs" />
     <Compile Include="_243ShortestWordDistanceTests.cs" />
     <Compile Include="_25ReverseNodesinkGroupTests.cs" />
     <Compile Include="_26RemoveDuplicatesfromSortedArrayTests.cs" />

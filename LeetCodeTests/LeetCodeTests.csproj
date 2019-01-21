@@ -64,6 +64,7 @@
     <Compile Include="_20ValidParenthesesTests.cs" />
     <Compile Include="_25ReverseNodesinkGroupTests.cs" />
     <Compile Include="_26RemoveDuplicatesfromSortedArrayTests.cs" />
+    <Compile Include="_274HIndexTests.cs" />
     <Compile Include="_283MoveZeroesTests.cs" />
     <Compile Include="_299BullsandCowsTests.cs" />
     <Compile Include="_2AddTwoNumbersTests.cs" />

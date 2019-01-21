@@ -56,6 +56,7 @@
     <Compile Include="225ImplementStackusingQueues.cs" />
     <Compile Include="25ReverseNodesinkGroup.cs" />
     <Compile Include="26RemoveDuplicatesfromSortedArray.cs" />
+    <Compile Include="274HIndex.cs" />
     <Compile Include="27RemoveElement.cs" />
     <Compile Include="283MoveZeroes.cs" />
     <Compile Include="299BullsandCows.cs" />

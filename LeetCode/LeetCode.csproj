@@ -54,6 +54,7 @@
     <Compile Include="1TwoSum.cs" />
     <Compile Include="20ValidParentheses.cs" />
     <Compile Include="217ContainsDuplicate.cs" />
+    <Compile Include="219ContainsDuplicateII.cs" />
     <Compile Include="225ImplementStackusingQueues.cs" />
     <Compile Include="243ShortestWordDistance.cs" />
     <Compile Include="25ReverseNodesinkGroup.cs" />
@@ -69,6 +70,7 @@
     <Compile Include="350IntersectionofTwoArraysII.cs" />
     <Compile Include="41FirstMissingPositive.cs" />
     <Compile Include="461HammingDistance.cs" />
+    <Compile Include="55JumpGame.cs" />
     <Compile Include="561ArrayPartitionI.cs" />
     <Compile Include="657JudgeRouteCircle.cs" />
     <Compile Include="709ToLowerCase.cs" />

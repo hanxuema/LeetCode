@@ -15,7 +15,7 @@ namespace LeetCode.Tests
         public void MaxProfitTestShouldReturn6()
         {
             var mp = new _121BestTimetoBuyandSellStock();
-            var result = mp.MaxProfit(new int[] { 7, 2, 5, 3, 4, 2,6, 1 });
+            var result = mp.MaxProfit(new int[] { 7, 1, 5, 3, 4, 2, 6, 1 });
             Assert.AreEqual(5, result);
         }
 

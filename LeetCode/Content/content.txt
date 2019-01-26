@@ -25,9 +25,9 @@
 45	Jump Game II	- not finish because it is hard level
 121	Best Time to Buy and Sell Stock	
 122	Best Time to Buy and Sell Stock II	
-123	Best Time to Buy and Sell Stock III	
-188	Best Time to Buy and Sell Stock IV	
-309	Best Time to Buy and Sell Stock with Cooldown	
+123	Best Time to Buy and Sell Stock III	 -  not finish because it is hard level
+188	Best Time to Buy and Sell Stock IV	 -  not finish because it is hard level
+309	Best Time to Buy and Sell Stock with Cooldown	 -  not finish because it is hard level
 11	Container With Most Water	
 42	Trapping Rain Water	
 334	Increasing Triplet Subsequence	

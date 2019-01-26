@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="11ContainerWithMostWater.cs" />
     <Compile Include="121BestTimetoBuyandSellStock.cs" />
     <Compile Include="125ValidPalindrome.cs" />
     <Compile Include="12IntegertoRoman.cs" />

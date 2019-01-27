@@ -32,7 +32,8 @@ namespace LeetCode
             {
                 var current = (right - left) * Math.Min(height[left], height[right]);
                 area = Math.Max(area, current);
-                if (height[left] < height[right]) { left++; }
+                if (height[left] >  height[right]) { right--; }
+                else if (height[left] < height[right]) { left++; }
                 else
                 {
                     left++;

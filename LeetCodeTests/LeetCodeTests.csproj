@@ -74,6 +74,7 @@
     <Compile Include="_283MoveZeroesTests.cs" />
     <Compile Include="_299BullsandCowsTests.cs" />
     <Compile Include="_2AddTwoNumbersTests.cs" />
+    <Compile Include="_334IncreasingTripletSubsequenceTests.cs" />
     <Compile Include="_344ReverseStringTests.cs" />
     <Compile Include="_349IntersectionofTwoArraysTests.cs" />
     <Compile Include="_350IntersectionofTwoArraysIITests.cs" />

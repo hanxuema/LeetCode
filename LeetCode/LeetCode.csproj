@@ -72,6 +72,7 @@
     <Compile Include="349IntersectionofTwoArrays.cs" />
     <Compile Include="350IntersectionofTwoArraysII.cs" />
     <Compile Include="41FirstMissingPositive.cs" />
+    <Compile Include="42TrappingRainWater.cs" />
     <Compile Include="461HammingDistance.cs" />
     <Compile Include="55JumpGame.cs" />
     <Compile Include="561ArrayPartitionI.cs" />

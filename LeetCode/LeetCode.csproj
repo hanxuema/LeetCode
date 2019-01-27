@@ -45,6 +45,7 @@
     <Compile Include="11ContainerWithMostWater.cs" />
     <Compile Include="121BestTimetoBuyandSellStock.cs" />
     <Compile Include="125ValidPalindrome.cs" />
+    <Compile Include="128LongestConsecutiveSequence.cs" />
     <Compile Include="12IntegertoRoman.cs" />
     <Compile Include="134GasStation.cs" />
     <Compile Include="13RomantoInteger.cs" />

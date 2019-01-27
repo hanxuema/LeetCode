@@ -58,6 +58,7 @@
     <Compile Include="_121BestTimetoBuyandSellStockTests.cs" />
     <Compile Include="_122BestTimetoBuyandSellStockIITests.cs" />
     <Compile Include="_125ValidPalindromeTests.cs" />
+    <Compile Include="_128LongestConsecutiveSequenceTests.cs" />
     <Compile Include="_134GasStationTests.cs" />
     <Compile Include="_13RomantoIntegerTests.cs" />
     <Compile Include="_15ThreeSumTests.cs" />

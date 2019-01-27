@@ -68,6 +68,7 @@
     <Compile Include="275HIndexII.cs" />
     <Compile Include="27RemoveElement.cs" />
     <Compile Include="283MoveZeroes.cs" />
+    <Compile Include="287FindtheDuplicateNumber.cs" />
     <Compile Include="299BullsandCows.cs" />
     <Compile Include="2AddTwoNumbers.cs" />
     <Compile Include="334IncreasingTripletSubsequence.cs" />

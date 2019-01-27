@@ -32,7 +32,7 @@
 42	Trapping Rain Water	
 334	Increasing Triplet Subsequence	
 128	Longest Consecutive Sequence	
-164	Maximum Gap	Bucket
+164	Maximum Gap	Bucket  - finish by myself
 287	Find the Duplicate Number	
 135	Candy	很少考
 330	Patching Array	很少考

@@ -62,6 +62,7 @@
     <Compile Include="_128LongestConsecutiveSequenceTests.cs" />
     <Compile Include="_134GasStationTests.cs" />
     <Compile Include="_13RomantoIntegerTests.cs" />
+    <Compile Include="_14LongestCommonPrefixTests.cs" />
     <Compile Include="_15ThreeSumTests.cs" />
     <Compile Include="_164MaximumGapTests.cs" />
     <Compile Include="_167TwoSum2InputarrayissortedTests.cs" />

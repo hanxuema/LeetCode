@@ -50,6 +50,7 @@
     <Compile Include="134GasStation.cs" />
     <Compile Include="13RomantoInteger.cs" />
     <Compile Include="14LongestCommonPrefix.cs" />
+    <Compile Include="151ReverseWordsinaString.cs" />
     <Compile Include="15ThreeSum.cs" />
     <Compile Include="164MaximumGap.cs" />
     <Compile Include="167TwoSum2Inputarrayissorted.cs" />

@@ -63,6 +63,7 @@
     <Compile Include="217ContainsDuplicate.cs" />
     <Compile Include="219ContainsDuplicateII.cs" />
     <Compile Include="225ImplementStackusingQueues.cs" />
+    <Compile Include="242ValidAnagram.cs" />
     <Compile Include="243ShortestWordDistance.cs" />
     <Compile Include="122BestTimetoBuyandSellStockII.cs" />
     <Compile Include="25ReverseNodesinkGroup.cs" />

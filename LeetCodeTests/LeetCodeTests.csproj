@@ -73,6 +73,7 @@
     <Compile Include="_205IsomorphicStringsTests.cs" />
     <Compile Include="_20ValidParenthesesTests.cs" />
     <Compile Include="_217ContainsDuplicateTests.cs" />
+    <Compile Include="_242ValidAnagramTests.cs" />
     <Compile Include="_243ShortestWordDistanceTests.cs" />
     <Compile Include="_25ReverseNodesinkGroupTests.cs" />
     <Compile Include="_26RemoveDuplicatesfromSortedArrayTests.cs" />

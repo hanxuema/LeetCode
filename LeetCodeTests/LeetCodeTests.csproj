@@ -79,6 +79,7 @@
     <Compile Include="_274HIndexTests.cs" />
     <Compile Include="_283MoveZeroesTests.cs" />
     <Compile Include="_287FindtheDuplicateNumberTests.cs" />
+    <Compile Include="_290WordPatternTests.cs" />
     <Compile Include="_299BullsandCowsTests.cs" />
     <Compile Include="_2AddTwoNumbersTests.cs" />
     <Compile Include="_334IncreasingTripletSubsequenceTests.cs" />

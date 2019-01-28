@@ -81,8 +81,8 @@ Sort
 186	Reverse Words in a String II	- not finish
 345	Reverse Vowels of a String	
 205	Isomorphic Strings	
-293	Flip Game	
-294	Flip Game II	
+293	Flip Game	- not finish lock
+294	Flip Game II - not finish lock	
 290	Word Pattern	
 242	Valid Anagram	
 49	Group Anagrams	

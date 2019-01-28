@@ -78,6 +78,7 @@
     <Compile Include="41FirstMissingPositive.cs" />
     <Compile Include="42TrappingRainWater.cs" />
     <Compile Include="461HammingDistance.cs" />
+    <Compile Include="4MedianofTwoSortedArrays.cs" />
     <Compile Include="55JumpGame.cs" />
     <Compile Include="561ArrayPartitionI.cs" />
     <Compile Include="657JudgeRouteCircle.cs" />
@@ -91,6 +92,7 @@
     <Compile Include="844BackspaceStringCompare.cs" />
     <Compile Include="8StringtoInteger.cs" />
     <Compile Include="9PalindromeNumber.cs" />
+    <Compile Include="Content\28ImplementstrStr.cs" />
     <Compile Include="GaltonGoogle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

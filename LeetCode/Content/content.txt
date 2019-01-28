@@ -37,7 +37,7 @@
 135	Candy	很少考
 330	Patching Array	很少考
 提高		
-4	Median of Two Sorted Arrays	
+4	Median of Two Sorted Arrays	- not finish because it is hard level VERY IMPORTANT
 321	Create Maximum Number	很少考
 327	Count of Range Sum	很少考
 289	Game of Life	

@@ -51,6 +51,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="Content\_28ImplementstrStrTests.cs" />
     <Compile Include="GaltonGoogleTests.cs" />
     <Compile Include="MyStackTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

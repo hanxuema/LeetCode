@@ -70,6 +70,7 @@
     <Compile Include="_189RotateArrayTests.cs" />
     <Compile Include="_18FourSumTests.cs" />
     <Compile Include="_1TwoSumTests.cs" />
+    <Compile Include="_205IsomorphicStringsTests.cs" />
     <Compile Include="_20ValidParenthesesTests.cs" />
     <Compile Include="_217ContainsDuplicateTests.cs" />
     <Compile Include="_243ShortestWordDistanceTests.cs" />

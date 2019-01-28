@@ -83,6 +83,7 @@
     <Compile Include="_344ReverseStringTests.cs" />
     <Compile Include="_349IntersectionofTwoArraysTests.cs" />
     <Compile Include="_350IntersectionofTwoArraysIITests.cs" />
+    <Compile Include="_387FirstUniqueCharacterinaStringTests.cs" />
     <Compile Include="_41FirstMissingPositiveTests.cs" />
     <Compile Include="_42TrappingRainWaterTests.cs" />
     <Compile Include="_461HammingDistanceTests.cs" />

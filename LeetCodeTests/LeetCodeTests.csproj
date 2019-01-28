@@ -82,6 +82,7 @@
     <Compile Include="_2AddTwoNumbersTests.cs" />
     <Compile Include="_334IncreasingTripletSubsequenceTests.cs" />
     <Compile Include="_344ReverseStringTests.cs" />
+    <Compile Include="_345ReverseVowelsofaStringTests.cs" />
     <Compile Include="_349IntersectionofTwoArraysTests.cs" />
     <Compile Include="_350IntersectionofTwoArraysIITests.cs" />
     <Compile Include="_383RansomNoteTests.cs" />

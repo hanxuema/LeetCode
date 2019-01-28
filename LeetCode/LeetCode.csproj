@@ -75,6 +75,7 @@
     <Compile Include="2AddTwoNumbers.cs" />
     <Compile Include="334IncreasingTripletSubsequence.cs" />
     <Compile Include="344ReverseString.cs" />
+    <Compile Include="345ReverseVowelsofaString.cs" />
     <Compile Include="349IntersectionofTwoArrays.cs" />
     <Compile Include="350IntersectionofTwoArraysII.cs" />
     <Compile Include="383RansomNote.cs" />

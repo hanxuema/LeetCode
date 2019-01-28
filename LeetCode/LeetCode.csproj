@@ -82,6 +82,7 @@
     <Compile Include="4MedianofTwoSortedArrays.cs" />
     <Compile Include="55JumpGame.cs" />
     <Compile Include="561ArrayPartitionI.cs" />
+    <Compile Include="58LengthofLastWord.cs" />
     <Compile Include="657JudgeRouteCircle.cs" />
     <Compile Include="709ToLowerCase.cs" />
     <Compile Include="728SelfDividingNumbers.cs" />

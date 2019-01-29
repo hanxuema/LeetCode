@@ -86,8 +86,8 @@ Sort
 290	Word Pattern	
 242	Valid Anagram	
 49	Group Anagrams	
-249	Group Shifted Strings	
-87	Scramble String	
+249	Group Shifted Strings	- not finish   lock
+87	Scramble String	  - not finish because it is hard level
 179	Largest Number	很少考
 6	ZigZag Conversion	很少考
 161	One Edit Distance	

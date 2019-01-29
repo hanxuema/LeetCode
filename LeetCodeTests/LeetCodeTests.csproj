@@ -51,7 +51,8 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="Content\_28ImplementstrStrTests.cs" />
+    <Compile Include="_179LargestNumberTests.cs" />
+    <Compile Include="_28ImplementstrStrTests.cs" />
     <Compile Include="GaltonGoogleTests.cs" />
     <Compile Include="MyStackTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -109,6 +110,9 @@
       <Project>{6E8FA4A8-3304-470B-A999-EAEA723A73E6}</Project>
       <Name>LeetCode</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Content\" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

@@ -55,6 +55,7 @@
     <Compile Include="164MaximumGap.cs" />
     <Compile Include="167TwoSum2Inputarrayissorted.cs" />
     <Compile Include="16ThreeSumClosest.cs" />
+    <Compile Include="179LargestNumber.cs" />
     <Compile Include="189RotateArray.cs" />
     <Compile Include="18FourSum.cs" />
     <Compile Include="1TwoSum.cs" />
@@ -102,7 +103,7 @@
     <Compile Include="844BackspaceStringCompare.cs" />
     <Compile Include="8StringtoInteger.cs" />
     <Compile Include="9PalindromeNumber.cs" />
-    <Compile Include="Content\28ImplementstrStr.cs" />
+    <Compile Include="28ImplementstrStr.cs" />
     <Compile Include="GaltonGoogle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -93,6 +93,7 @@
     <Compile Include="_41FirstMissingPositiveTests.cs" />
     <Compile Include="_42TrappingRainWaterTests.cs" />
     <Compile Include="_461HammingDistanceTests.cs" />
+    <Compile Include="_49GroupAnagramsTests.cs" />
     <Compile Include="_55JumpGameTests.cs" />
     <Compile Include="_58LengthofLastWordTests.cs" />
     <Compile Include="_657JudgeRouteCircleTests.cs" />

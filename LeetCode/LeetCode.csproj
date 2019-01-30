@@ -93,6 +93,7 @@
     <Compile Include="561ArrayPartitionI.cs" />
     <Compile Include="58LengthofLastWord.cs" />
     <Compile Include="657JudgeRouteCircle.cs" />
+    <Compile Include="6ZigZagConversion.cs" />
     <Compile Include="709ToLowerCase.cs" />
     <Compile Include="728SelfDividingNumbers.cs" />
     <Compile Include="771JewelsandStones.cs" />

@@ -98,6 +98,7 @@
     <Compile Include="_55JumpGameTests.cs" />
     <Compile Include="_58LengthofLastWordTests.cs" />
     <Compile Include="_657JudgeRouteCircleTests.cs" />
+    <Compile Include="_6ZigZagConversionTests.cs" />
     <Compile Include="_728SelfDividingNumbersTests.cs" />
     <Compile Include="_7ReverseIntegerTests.cs" />
     <Compile Include="_80RemoveDuplicatesfromSortedArray2Tests.cs" />

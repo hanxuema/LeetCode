@@ -22,7 +22,7 @@ namespace LeetCode.Tests
         public void ConvertTest2()
         {
             var zzc = new _6ZigZagConversion();
-            var result = zzc.Convert("PAYPALISHIRING", 2);
+            var result = zzc.Convert("PAYPALISHIRING", 3);
             Assert.AreEqual("PAHNAPLSIIGYIR", result);
         }
  

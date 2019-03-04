@@ -51,6 +51,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="_168ExcelSheetColumnTitleTests.cs" />
     <Compile Include="_179LargestNumberTests.cs" />
     <Compile Include="_28ImplementstrStrTests.cs" />
     <Compile Include="GaltonGoogleTests.cs" />
@@ -84,6 +85,7 @@
     <Compile Include="_290WordPatternTests.cs" />
     <Compile Include="_299BullsandCowsTests.cs" />
     <Compile Include="_2AddTwoNumbersTests.cs" />
+    <Compile Include="_316RemoveDuplicateLettersTests.cs" />
     <Compile Include="_334IncreasingTripletSubsequenceTests.cs" />
     <Compile Include="_344ReverseStringTests.cs" />
     <Compile Include="_345ReverseVowelsofaStringTests.cs" />

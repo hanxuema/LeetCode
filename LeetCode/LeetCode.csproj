@@ -54,6 +54,7 @@
     <Compile Include="15ThreeSum.cs" />
     <Compile Include="164MaximumGap.cs" />
     <Compile Include="167TwoSum2Inputarrayissorted.cs" />
+    <Compile Include="168ExcelSheetColumnTitle.cs" />
     <Compile Include="16ThreeSumClosest.cs" />
     <Compile Include="179LargestNumber.cs" />
     <Compile Include="189RotateArray.cs" />
@@ -77,6 +78,7 @@
     <Compile Include="290WordPattern.cs" />
     <Compile Include="299BullsandCows.cs" />
     <Compile Include="2AddTwoNumbers.cs" />
+    <Compile Include="316RemoveDuplicateLetters.cs" />
     <Compile Include="334IncreasingTripletSubsequence.cs" />
     <Compile Include="344ReverseString.cs" />
     <Compile Include="345ReverseVowelsofaString.cs" />
